@@ -27,7 +27,7 @@ This script is designed for production safety. A primary feature is the **Option
 > **Use cases for Exclusions:**
 > * Protecting VIP or Executive devices.
 > * Exempting specialized industrial hardware (kiosks, digital signage).
-> * Preserving Autopilot-registered devices that rarely sync.
+> * Preserving Autopilot-registered devices that rarely sync. The script does not remove the Autopilot registered entry.
 
 ---
 
