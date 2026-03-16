@@ -48,3 +48,11 @@ Your Azure App Registration (Service Principal) requires the following **Applica
 ```powershell
 Install-Module Microsoft.Graph -Scope CurrentUser
 Install-Module Az.Storage -Scope CurrentUser
+
+
+## 🛠 **Execution Guide**
+### 1. Pre-Execution
+Ensure you have your Tenant ID, Client ID, and Client Secret ready from your Azure App Registration.
+
+###2. Running the Script
+Run the script by passing the mandatory authentication parameters:
