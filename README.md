@@ -21,7 +21,7 @@ By targeting both **Microsoft Intune** and **Entra ID** (Azure AD) simultaneousl
 
 ---
 
-## 🛡️ Safety & Exclusion Groups (Highlighted)
+## 🛡️ Safety & Exclusion Groups
 This script is designed for production safety. A primary feature is the **Optional Exclusion Group**. 
 
 > [!IMPORTANT]
